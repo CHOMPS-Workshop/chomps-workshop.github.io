@@ -25,7 +25,7 @@ layout: home
 <hr  style="color: rgb(92, 242, 117);">
 <p>
 <ul>
-	<li> <b>[3 October, 2026]</b> CHOMPS2 is back, see you at EACL 2027 in Athens.</li>
+	<li> <b>[3rd October, 2026]</b> CHOMPS is back! See you at EACL 2027 in Athens!!!</li>
 </ul>
 </p>
 <br>
@@ -81,8 +81,9 @@ On acceptance, authors may add one additional page to accomodate changes suggest
 
 <p><b>Submission Format:</b> Paper submissions must use the official ACL style templates, which are available either as an <a href="https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj">Overleaf template</a> or via <a href="https://github.com/acl-org/acl-style-files" a>downloading LaTeX or Word files</a>. We strongly encourage participants to use the LaTeX template. All submissions must be in PDF format and must conform to the official style guidelines, which are contained in these template files. For anonymity policy, we follow the <a href="https://aclrollingreview.org/anonymity/" a>ARR anonimity policy</a>. For additional submission instructions, please check the <a href="https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines" a>Author Guidelines</a>.</p>
 
-<p><b>Submissions' Site:</b> (a) via Direct submission (TBA) (b) via ARR commitement (TBA)</p>
+<p><b>Submissions' Site:</b> <li>(a) via Direct submission (TBA)</li> <li>(b) via ARR commitement (TBA)</li></p>
 
+<br>
 
 <!--Confirmed Speakers-->
 <h2 class="blackpar_title" id="speakers">Keynote Speakers</h2>
@@ -92,48 +93,6 @@ On acceptance, authors may add one additional page to accomodate changes suggest
 </p>
 <br>
 
-<!-- Panelist 
-<h2 class="blackpar_title" id="panelists">Panelists</h2>
-<hr  style="color: rgb(212, 110, 0);">
-<p>
-{% include panelists.html %}
-</p>
-<br>
--->
-
-<!--Shared Task
-<h2 class="blackpar_title" id="sharedtask">Shared Task: SHROOM-CAP</h2>
-<hr  style="color: rgb(212, 110, 0);">
-<p>
-{% include sharedtask.html %}
-</p>
-<br>
--->
-
-<!-- Schedule 
-<h2 class="blackpar_title" id="schedule">Schedule</h2>
-<hr  style="color: rgba(0, 212, 177, 1);">
-<p>
--->
-<!-- <b>Keynotes</b>: 40 min talk + 10 min Q&A</p> 
-<p> <b>Orals</b>: 20 min talk + 5 min Q&A</p> 
-<p> <b>Posters</b>: 10 min talk + 3 min Q&A</p>
-<hr  style="color: rgb(212, 110, 0);">
-<p>
-{% include schedule.html %}
-</p>
-<br> 
--->
-
-<!-- Technical Committee 
-<h2 class="blackpar_title" id="program_committee">Program Committee</h2>
-<hr  style="color: rgb(212, 110, 0);">
-<p>
-{% include program_committee.html %}
-</p>
-<br>
--->
-
 <!-- Organizers -->
 <h2 class="blackpar_title" id="organizers">Organizers</h2>
 <hr  style="color: rgb(212, 110, 0);">
@@ -141,16 +100,6 @@ On acceptance, authors may add one additional page to accomodate changes suggest
 {% include organizers.html %}
 </p>
 <br>
-
-<!-- SHROOMCAP Organizers -->
-<!---
-<h2 class="blackpar_title" id="storganizers">Shared Task Organizers</h2>
-<hr  style="color: rgb(212, 110, 0);">
-<p>
-{% include storganizers.html %}
-</p>
-<br>
--->
 
 
 <style>
