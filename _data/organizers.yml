@@ -1,36 +1,36 @@
 - num_row: 0
   organizers:
     - name: Aman Sinha
-      affiliation: University of Lorraine, France
+      affiliation: University of Geneva, Switzerland
       photo: amasi.png
       url: https://amansinha09.github.io/
-    - name: Timothee Mickus
-      affiliation: University of Helsinki, Finland
-      photo: timo.png
-      url: https://timotheemickus.github.io/
+    - name: Chuyuan Li
+      affiliation: University of Grenoble Alps, France
+      photo: lisa.png
+      url: https://chuyuanli.github.io/
     - name: Raul Vazquez
       affiliation: University of Helsinki, Finland
       photo: raul.png
       url: https://jrvc.github.io/
-    - name: Ioana Buhnila
-      affiliation: University of Lorraine, France
-      photo: ioan.jpg
-      url: https://perso.atilf.fr/ibuhnila/
+    - name: Boya Zhang
+      affiliation: University of Geneva, Switzerland
+      photo: boya.png
+      url: https://www.linkedin.com/in/tinaboya/
 - num_row: 1
   organizers:
-    - name: Rohit Agarwal
-      affiliation: UiT Tromsø, Norway
-      photo: roh.jpg
-      url: https://rohit102497.github.io/
-    - name: Patricia Schmidtova 
-      affiliation: Charles University, Prague
-      photo: pat.png
-      url: https://ufal.mff.cuni.cz/patricia-schmidtova
+    - name: Timothee Mickus
+      affiliation: University of Helsinki, Finland
+      photo: timo.png
+      url: https://timotheemickus.github.io/
+    - name: Nona Naderi
+      affiliation: Université Paris-Saclay
+      photo: nona.jpg
+      url: https://perso.lisn.upsaclay.fr/wiki/en/naderi/start 
     - name: Jörg Tiedmann
       affiliation: University of Helsinki, Finland
       photo: jorg.png
       url: https://researchportal.helsinki.fi/en/persons/j%C3%B6rg-tiedemann
-    - name: Dilip K. Prasad
-      affiliation: UiT Tromsø, Norway
-      photo: dili.jpg
-      url: https://sites.google.com/site/dilipprasad/
+    - name: Douglas Teodoro
+      affiliation: University of Geneva, Switzerland
+      photo: teodoro.jpg
+      url: https://www.unige.ch/medecine/radio/groupes-de-recherche/1035teodoro/membres-du-groupe/douglas-teodoro 

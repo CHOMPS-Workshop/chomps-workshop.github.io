@@ -7,13 +7,13 @@
 # <h3 class="blackpar_title">(Models, Training and Inference)</h3>
 layout: home
 ---
-<div style="font-family: 'Source Sans', sans-serif; background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('images/mumbai6.jpg') no-repeat; background-size: cover;">
+<div style="font-family: 'Source Sans', sans-serif; background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('images/athens-1.jpg') no-repeat; background-size: cover;">
 	<center>
 		<br><br>
-		<h2 class="blackpar_title">CHOMPS 2025</h2>
-		<h3 class="blackpar_title">The 1<sup>st</sup> workshop on <a style="color: rgb(164, 0, 0)">C</a>onfabulation, <a style="color: rgb(164, 0, 0)">H</a>allucinations & <a style="color: rgb(164, 0, 0)">O</a>vergeneration in <a style="color: rgb(164, 0, 0)">M</a>ultilingual and <a style="color: rgb(164, 0, 0)">P</a>ractical <a style="color: rgb(164, 0, 0)">S</a>ettings</h3>
+		<h2 class="blackpar_title">CHOMPS 2027</h2>
+		<h3 class="blackpar_title">The 2<sup>nd</sup> workshop on <a style="color: rgb(164, 0, 0)">C</a>onfabulation, <a style="color: rgb(164, 0, 0)">H</a>allucinations & <a style="color: rgb(164, 0, 0)">O</a>vergeneration in <a style="color: rgb(164, 0, 0)">M</a>ultilingual and <a style="color: rgb(164, 0, 0)">P</a>ractical <a style="color: rgb(164, 0, 0)">S</a>cenarios</h3>
 	    <h4 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"> Advances in hallucination mitigation in practical situations: <br>multilingual and precision-critical domains</h4>
-		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"><b>In conjunction with <a href="https://www.afnlp.org/conferences/ijcnlp2025/"> AACL-IJCNLP 2025 </a><br> 23rd December, 2025, Mumbai, India (On-Site)</b></h5>
+		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"><b>In conjunction with <a href="https://2027.eacl.org"> EACL 2027 </a><br> March 9-14, 2027, Athens, Greece (On-Site)</b></h5>
 		<br><br>	
 	</center>
 </div>
@@ -68,9 +68,7 @@ layout: home
 	<li> <b>[17 June, 2024]</b> <a href="index.html#imp_dates">Important Dates</a></li>
 	<li> <b>[17 June, 2024]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC">Submissions Site Open!</a><a href="index.html#submission_guide">Submissions Guidelines.</a></li>
 -->
-	<li> <b>[5 Nov, 2025]</b> Decision notification are out!</li>
-	<li> <b>[30 Sept, 2025]</b> Paper submission deadline extension. New deadline: 03 October, 2025 (AoE). Submit via <a href="https://openreview.net/group?id=aclweb.org/AACL-IJCNLP/2025/Workshop/CHOMPS">our OpenReview submission page</a>.</li>
-	<li> <b>[26 May, 2025]</b> <a href="https://chomps2025.github.io/">Website Launched!</a></li>
+	<li> <b>[3 October, 2026]</b> CHOMPS2 is back, see you at EACL 2027 in Athens.</li>
 </ul>
 </p>
 <br>
@@ -110,16 +108,15 @@ layout: home
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 <ul>
- 	<li><b>First call for papers:</b> July 22, 2025 </li>
-	<li><b>Second call for papers:</b> August 22, 2025 </li>
-	<li><b>Third call for papers:</b> September 22, 2025 </li>
-	<li><b>Paper submission deadline:</b> <del>September 29, 2025</del> &nbsp;&nbsp; October 03, 2025  </li>
-	<li><b>Direct ARR commitment:</b> October 27, 2025</li>
-	<li><b>Author notification:</b> November 3, 2025</li>
-	<li><b>Camera-Ready due:</b> November 14, 2025</li>
-	<li><b>Workshop date:</b> December 23rd, 2025</li>
+ 	<li><b>First call for papers:</b> October 13, 2026 </li>
+	<li><b>Second call for papers:</b> November 13, 2026 </li>
+	<li><b>Paper submission deadline:</b> December 15, 2026 </li>
+	<li><b>Direct ARR commitment:</b> December 22, 2026</li>
+	<li><b>Author notification:</b> January 5, 2027</li>
+	<li><b>Camera-Ready due:</b> January 19, 2027</li>
+	<li><b>Workshop date:</b> March 9-14, 2027 (TBC)</li>
 </ul>
-All deadlines are 11:59 PM Samoa Standard Time (<a href="https://www.timeanddate.com/time/zones/sst">SST</a>) (UTC/GMT-11, "Anywhere on Earth")
+All deadlines are 11:59 PM AoE ("Anywhere on Earth").
 </p>
 <br>
 
@@ -148,7 +145,7 @@ IMP NOTES:
 -->
 <p><b>Submission Format:</b> Paper submissions must use the official ACL style templates, which are available either as an <a href="https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj">Overleaf template</a> or via <a href="https://github.com/acl-org/acl-style-files" a>downloading LaTeX or Word files</a>. We strongly encourage participants to use the LaTeX template. All submissions must be in PDF format and must conform to the official style guidelines, which are contained in these template files. For anonymity policy, we follow the <a href="https://aclrollingreview.org/anonymity/" a>ARR anonimity policy</a>. For additional submission instructions, please check the <a href="https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines" a>Author Guidelines</a>.</p>
 
-<p><b>Submissions' Site:</b> (a) via <a href="https://openreview.net/group?id=aclweb.org/AACL-IJCNLP/2025/Workshop/CHOMPS">Direct submission</a> (b) via <a href="https://openreview.net/group?id=aclweb.org/AACL-IJCNLP/2025/Workshop/CHOMPS_ARR_Commitment">ARR commitement</a></p>
+<p><b>Submissions' Site:</b> (a) via Direct submission (TBA) (b) via ARR commitement (TBA)</p>
 <!-- Special Highlights 
 <h2 class="blackpar_title" id="highlights">Special Highlights</h2>
 <hr  style="color: rgb(212, 110, 0);">
@@ -166,23 +163,23 @@ IMP NOTES:
 </p>
 <br>
 
-<!-- Panelist -->
+<!-- Panelist 
 <h2 class="blackpar_title" id="panelists">Panelists</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 {% include panelists.html %}
 </p>
 <br>
+-->
 
-
-<!--Shared Task-->
+<!--Shared Task
 <h2 class="blackpar_title" id="sharedtask">Shared Task: SHROOM-CAP</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 {% include sharedtask.html %}
 </p>
 <br>
-
+-->
 
 <!-- 
 <h2 class="blackpar_title" id="accepted_papers">Accepted Papers</h2>
@@ -202,19 +199,20 @@ IMP NOTES:
 <br>
 
 
-<!-- Schedule -->
+<!-- Schedule 
 <h2 class="blackpar_title" id="schedule">Schedule</h2>
 <hr  style="color: rgba(0, 212, 177, 1);">
 <p>
+-->
 <!-- <b>Keynotes</b>: 40 min talk + 10 min Q&A</p> 
 <p> <b>Orals</b>: 20 min talk + 5 min Q&A</p> 
 <p> <b>Posters</b>: 10 min talk + 3 min Q&A</p>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
--->
 {% include schedule.html %}
 </p>
 <br> 
+-->
 
 <!-- Technical Committee -->
 <h2 class="blackpar_title" id="program_committee">Program Committee</h2>
@@ -233,12 +231,14 @@ IMP NOTES:
 <br>
 
 <!-- SHROOMCAP Organizers -->
+<!---
 <h2 class="blackpar_title" id="storganizers">Shared Task Organizers</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 {% include storganizers.html %}
 </p>
 <br>
+-->
 
 
 <style>
