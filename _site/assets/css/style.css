@@ -134,7 +134,7 @@ p { text-align: justify; }
 /* Clear floats after the columns */
 .row_perso:after { content: ""; display: table; clear: both; }
 
-.img_card_perso { width: 100%; border-radius: 50%; }
+.img_card_perso { width: 100%; aspect-ratio: 1 / 1; object-fit: cover;border-radius: 50%; }
 
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) { .column_perso { width: 75%; display: block; margin-bottom: 20px; margin-left: 12%; } .img_card_perso { width: 75%; border-radius: 50%; margin-left: 12%; } }
