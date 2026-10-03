@@ -2,15 +2,15 @@
   speakers:
     - name: Isabelle Augenstien
       title: Prof.
-      affiliation: CopeNLU, University of Copenhagen
+      affiliation: University of Copenhagen, Denmark
       photo: isabelle.jpg
       url: https://isabelleaugenstein.github.io/
-      bio: "Isabelle AUGENSTEIN is a professor at the University of Copenhagen and the head of the CopeNLU research group. She is known for her pioneering work in factuality, explainability and fairness in NLP, along with a more recent interest in cross-cultural NLP. Her research is particularly relevant to trustworthy and reliable language models, focusing on fact-checking, factuality assessment, bias detection, and methods for identifying and explaining errors in NLP systems. This work directly connects to hallucination mitigation and the broader challenge of ensuring that LLM-generated information is accurate, robust, and trustworthy."
+      bio: "Isabelle AUGENSTEIN is a professor at the University of Copenhagen and the head of the CopeNLU research group. She is known for her pioneering work in factuality, explainability and fairness in NLP, along with a more recent interest in cross-cultural NLP. Her research is particularly relevant to trustworthy and reliable language models, focusing on fact-checking, factuality assessment, bias detection, and methods for identifying and explaining errors in NLP systems. Her work directly connects to hallucination mitigation and the broader challenge of ensuring that LLM-generated information is accurate, robust, and trustworthy."
 - num_row: 2
   speakers:
     - name: Iacer Calixto
       title: Prof.
-      affiliation: NLP4Health Lab, University of Amsterdam
+      affiliation: University of Amsterdam, Netherlands
       photo: icalixto.jpg
       url: https://nlp4health-lab.github.io/team/principal-investigator
       bio: "Iacer Calixto is an assistant professor at the University of Amsterdam and leads the NLP4Health Lab Amsterdam group. He is known for his research on trustworthy medical LLMs, with a focus on clinical reasoning, uncertainty, calibration, and fairness. His research focuses on developing reliable and responsible NLP and machine learning methods for high-stakes healthcare applications, addressing challenges such as factuality, uncertainty, bias, privacy, interpretability, and robustness. His work is particularly relevant to hallucination mitigation in medical settings, where unsupported or unreliable model outputs can have significant consequences for clinical decision-making and patient safety."
