@@ -1,27 +1,11 @@
 - num_row: 0
   storganizers:
-    - name: Federica Gamba
-      affiliation: Charles University, Prague
-      photo: federica.jpg
-      url: https://ufal.mff.cuni.cz/federica-gamba 
-    - name: Laura Zanella
-      affiliation: Independent Reseacher
-      photo: laura.jpeg
-      url: https://scholar.google.com/citations?user=NUhkHp_VrJMC&hl=es
-    - name: Ahana Chattopadhyay
-      affiliation: Orange Labs, France
-      photo: ahana2.png
-      url: https://ahanachattopadhyay.github.io/
-    - name: Yash Kankanampati
-      affiliation: Université Sorbonne Paris Nord, France
-      photo: yash2.jpeg
-      url: https://scholar.google.com/citations?user=m6rHMc0AAAAJ&hl=fr
-    - name: Binesh Arakkal Remesh  
-      affiliation: Universit\'e de Lorraine, France
-      photo: binesh.jpeg
-      url: https://in.linkedin.com/in/binesh-arakkal-remesh-15497a288
-    - name: Aryan Chandramania
-      affiliation: IIIT Hyderabad, India
-      photo: aryan.jpeg
-      url: https://in.linkedin.com/in/aryan-chandramania 
+    - name: Lisa Guzzi
+      affiliation: University of Geneva
+      photo: guzzi.jpeg
+      url: https://www.linkedin.com/in/lisa-guzzi
+    - name: CHOMPERS
+      affiliation: TBA
+      photo: CHOMPERS.png
+      url: https://chomps-workshop.github.io/
     

@@ -7,7 +7,7 @@
 # <h3 class="blackpar_title">(Models, Training and Inference)</h3>
 layout: home
 ---
-<div style="font-family: 'Source Sans', sans-serif; background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('images/athens-1.jpg') no-repeat; background-size: cover;">
+<div style="font-family: 'Source Sans', sans-serif; background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('images/athens-3.jpg') no-repeat; background-size: cover;">
 	<center>
 		<br><br>
 		<h2 class="blackpar_title">CHOMPS 2027</h2>
@@ -98,6 +98,14 @@ On acceptance, authors may add one additional page to accomodate changes suggest
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 {% include organizers.html %}
+</p>
+<br>
+
+<!-- Shared Task Organizers -->
+<h2 class="blackpar_title" id="organizers">Organizers</h2>
+<hr  style="color: rgb(212, 110, 0);">
+<p>
+{% include storganizers.html %}
 </p>
 <br>
 
