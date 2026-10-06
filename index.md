@@ -102,7 +102,7 @@ On acceptance, authors may add one additional page to accomodate changes suggest
 <br>
 
 <!-- Shared Task Organizers -->
-<h2 class="blackpar_title" id="organizers">Organizers</h2>
+<h2 class="blackpar_title" id="organizers">Shared Task Organizers</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 {% include storganizers.html %}
