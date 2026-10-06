@@ -12,16 +12,16 @@
 #  url: index.html#highlights
 - title: Keynote
   url: index.html#speakers
-#- title: Shared Task
-#  url: index.html#sharedtask  
+- title: Shared Task
+  url: index.html#sharedtask  
 #- title: Program committee
 #  url: index.html#program_committee 
 - title: Organizers
   url: index.html#organizers
 #- title: Sponsors
 #  url: index.html#sponsors
-#- title: Previous Editions
-#  url: index.html#previous_editions
+- title: Previous Editions
+  url: index.html#previous_editions
 #- title: Schedule
 #  url: index.html#schedule
 #- title: Accepted papers
