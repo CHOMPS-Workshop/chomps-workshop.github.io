@@ -1,10 +1,11 @@
-- title: "Shared-task on Hallucinations and Related Observable Overgeneration Mistakes in Crosslingual Analyses of Publications (SHROOM-CAP)"
-  image: "shroom-cap.png"
+- title: "SHROOM-Visions 2.0"
+  image: "shroomvision2.png"
   description: >
-          This task is the III edition in the <a href="https://helsinki-nlp.github.io/shroom/">SHROOM</a> shared tasks series. 
-          This shared task focuses on evaluating language models for scientific cross-lingual hallucination detection, where we explore the hallucination difference between high resource and low resource languages. 
+          This task is the 5th edition in the <a href="https://helsinki-nlp.github.io/shroom/">SHROOM</a> shared tasks series. 
+          Following the success of SHROOM-Visions shared task, we are launching a new challenge on model-agnostic hallucination detection for Vision-and-Language Models (VLMs), with a focus on generalization to unseen languages and domains.
           
+          Can your hallucination detector work when the language and domain are completely new?
 
-          To participate fill the registration form: <a href="https://forms.gle/hWR9jwTBjZQmFKAE7">https://forms.gle/hWR9jwTBjZQmFKAE7</a> . 
-          For more information visit the website: <a href="https://helsinki-nlp.github.io/shroom/2025a">https://helsinki-nlp.github.io/shroom/2025a</a>
+          To participate fill the registration form: <a href="https://forms.gle/h2BfwdCFawDNCMNQ6">https://forms.gle/h2BfwdCFawDNCMNQ6</a> . 
+          
   #timeline_image: timeline_shroomcap.jpg

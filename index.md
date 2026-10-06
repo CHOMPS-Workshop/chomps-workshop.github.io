@@ -93,6 +93,14 @@ On acceptance, authors may add one additional page to accomodate changes suggest
 </p>
 <br>
 
+<!--Shared Task-->
+<h2 class="blackpar_title" id="speakers">Shared Task</h2>
+<hr  style="color: rgb(212, 110, 0);">
+<p>
+{% include sharedtask.html %}
+</p>
+<br>
+
 <!-- Organizers -->
 <h2 class="blackpar_title" id="organizers">Organizers</h2>
 <hr  style="color: rgb(212, 110, 0);">
