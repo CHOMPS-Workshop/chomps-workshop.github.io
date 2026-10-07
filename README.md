@@ -1,2 +1,5 @@
-# CHOMPS2025
-Official Website of the 1st CHOMPS workshop, Mumbai (India), 23rd - 24th December, 2025
+# CHOMPS
+Official Website of the CHOMPS workshop
+- 1st CHOMPS workshop, Mumbai (India), 23rd - 24th December, 2025
+- 2nd CHOMPS workshop, Athens (Greece), 23rd - March, 2027
+
