@@ -25,6 +25,7 @@ layout: home
 <hr  style="color: rgb(92, 242, 117);">
 <p>
 <ul>
+	<li> <b>[19th October, 2026]</b> 🔊 Paper submission are open!!!</li>
 	<li> <b>[3rd October, 2026]</b> CHOMPS is back! See you at EACL 2027 in Athens!!!</li>
 </ul>
 </p>
@@ -79,12 +80,12 @@ On acceptance, authors may add one additional page to accomodate changes suggest
 </p>
 
 
-<div style="background-color: #fff8f0; border: 1px solid #e8bd96; border-radius: 16px; padding: 24px 28px; margin: 28px 0; color: #333; line-height: 1.7; box-shadow: 0 3px 10px rgba(0,0,0,0.06);">
+<div style="background-color: #8d7b66ff; border: 1px solid #0e0a07ff; border-radius: 16px; padding: 24px 28px; margin: 28px 0; color: #333; line-height: 1.7; box-shadow: 0 3px 10px rgba(0,0,0,0.06);">
 
-<h3 style="color: #a65300; margin-top: 0;">Submission Policy</h3>
+<h3 style="color: #161009ff; margin-top: 0;">Submission Policy</h3>
 
 <p>
-To ensure a fair, high-quality, and sustainable review process, CHOMPS adopts a <strong>reciprocal reviewing policy</strong> for all direct submissions. Each direct submission must designate, via the submission form, one or more eligible authors to serve as reciprocal reviewers, with a standard reviewing load of <strong>three papers per designated reviewer</strong>.
+To ensure a fair, high-quality, and sustainable review process, CHOMPS adopts a <strong>reciprocal reviewing policy</strong> for all direct submissions. Each direct submission must designate, via the submission form, one or more eligible authors to serve as reciprocal reviewers, with a standard reviewing load of <strong>1-2 papers per designated reviewer</strong>.
 </p>
 
 <p>Designated reviewers must meet at least one of the following eligibility criteria:</p>
