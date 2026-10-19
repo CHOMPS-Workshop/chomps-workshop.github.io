@@ -66,7 +66,7 @@ All deadlines are 11:59 PM AoE ("Anywhere on Earth").
 </p>
 <br>
 
-<h2 class="blackpar_title" id="submission_guide">Submission guidelines</h2>
+<h2 class="blackpar_title" id="submission_guide">Submission Guidelines</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p>The workshop is designed with a widely inclusive submission policy so as to foster as vibrant a discussion as possible. In particular, we will accept:
 <ul>
@@ -79,10 +79,39 @@ On acceptance, authors may add one additional page to accomodate changes suggest
 </p>
 
 
+<div style="background-color: #fff8f0; border: 1px solid #e8bd96; border-radius: 16px; padding: 24px 28px; margin: 28px 0; color: #333; line-height: 1.7; box-shadow: 0 3px 10px rgba(0,0,0,0.06);">
+
+<h3 style="color: #a65300; margin-top: 0;">Submission Policy</h3>
+
+<p>
+To ensure a fair, high-quality, and sustainable review process, CHOMPS adopts a <strong>reciprocal reviewing policy</strong> for all direct submissions. Each direct submission must designate, via the submission form, one or more eligible authors to serve as reciprocal reviewers, with a standard reviewing load of <strong>three papers per designated reviewer</strong>.
+</p>
+
+<p>Designated reviewers must meet at least one of the following eligibility criteria:</p>
+
+<ul>
+<li>Hold a PhD; or</li>
+<li>Have co-authored at least one peer-reviewed paper at a major conference or comparable venue, such as ACL, EMNLP, NAACL, EACL, COLING, NeurIPS, ICML, ICLR, AAAI, or IJCAI.</li>
+</ul>
+
+<p>
+Only submissions with no eligible authors are exempt from this requirement. Failure to complete assigned reviews by the announced deadline may result in desk rejection of the associated submission. Exceptions are rare and will be assessed individually by the workshop chairs.
+</p>
+
+<p>
+Submissions with a high-school student among the authors are not eligible. Authors must also disclose any use of generative AI tools in preparing their submissions, including assistance with writing, analysis, ideation, or other research activities, in accordance with applicable ARR transparency requirements.
+</p>
+
+<p style="border-top: 1px solid #f0d2b5; padding-top: 12px; margin-bottom: 0; font-style: italic; color: #555;">
+These policies aim to distribute reviewing responsibilities fairly, maintain review quality and timeliness, and support a sustainable peer-review process for the CHOMPS community.
+</p>
+
+</div>
+
+
 <p><b>Submission Format:</b> Paper submissions must use the official ACL style templates, which are available either as an <a href="https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj">Overleaf template</a> or via <a href="https://github.com/acl-org/acl-style-files" a>downloading LaTeX or Word files</a>. We strongly encourage participants to use the LaTeX template. All submissions must be in PDF format and must conform to the official style guidelines, which are contained in these template files. For anonymity policy, we follow the <a href="https://aclrollingreview.org/anonymity/" a>ARR anonimity policy</a>. For additional submission instructions, please check the <a href="https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines" a>Author Guidelines</a>.</p>
 
-<p><b>Submissions' Site:</b> <li>(a) via Direct submission (TBA)</li> <li>(b) via ARR commitement (TBA)</li></p>
-
+<p><b>Submissions' Site:</b> (a) via <a href="https://openreview.net/group?id=eacl.org/EACL/2027/Workshop/CHOMPS&referrer=%5BHomepage%5D(%2F)" a>Direct submission</a> (b) via <a href="https://openreview.net/group?id=eacl.org/EACL/2027/Workshop/CHOMPS_ARR_Commitment&referrer=%5BHomepage%5D(%2F)" a>ARR commitement</a></p>
 <br>
 
 <!--Confirmed Speakers-->
