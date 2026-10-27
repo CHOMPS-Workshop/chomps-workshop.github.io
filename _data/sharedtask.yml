@@ -1,5 +1,5 @@
-- title: "SHROOM-Visions 2.0"
-  image: "shroomvision2.png"
+- title: "SHROOM-VOODO"
+  image: "shroom-voodo-logo.jpeg"
   description: >
           This task is the 5th edition in the <a href="https://helsinki-nlp.github.io/shroom/">SHROOM</a> shared tasks series. 
           Following the success of SHROOM-Visions shared task, we are launching a new challenge on model-agnostic hallucination detection for Vision-and-Language Models (VLMs), with a focus on generalization to unseen languages and domains.
