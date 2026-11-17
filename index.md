@@ -141,13 +141,13 @@ These policies aim to distribute reviewing responsibilities fairly, maintain rev
 <br>
 
 <!-- Shared Task Organizers 
-<h2 class="blackpar_title" id="organizers">Shared Task Organizers</h2>
+<h2 class="blackpar_title" id="storganizers">Shared Task Organizers</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 {% include storganizers.html %}
 </p>
 <br>
--->
+
 
 <style>
 .vertical-center {
@@ -158,6 +158,7 @@ These policies aim to distribute reviewing responsibilities fairly, maintain rev
   transform: translateY(-50%);
 }
 </style>
+-->
 
 <!--
 <h2 class="blackpar_title" id="sponsors">Call For Sponsors</h2>
