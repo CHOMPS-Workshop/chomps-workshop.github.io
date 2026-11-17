@@ -123,13 +123,14 @@ These policies aim to distribute reviewing responsibilities fairly, maintain rev
 </p>
 <br>
 
-<!--Shared Task-->
+<!--Shared Task
 <h2 class="blackpar_title" id="sharedtask">Shared Task</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 {% include sharedtask.html %}
 </p>
 <br>
+-->
 
 <!-- Organizers -->
 <h2 class="blackpar_title" id="organizers">Organizers</h2>
@@ -139,14 +140,14 @@ These policies aim to distribute reviewing responsibilities fairly, maintain rev
 </p>
 <br>
 
-<!-- Shared Task Organizers -->
+<!-- Shared Task Organizers 
 <h2 class="blackpar_title" id="organizers">Shared Task Organizers</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 {% include storganizers.html %}
 </p>
 <br>
-
+-->
 
 <style>
 .vertical-center {
