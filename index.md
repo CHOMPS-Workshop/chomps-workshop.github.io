@@ -13,7 +13,7 @@ layout: home
 		<h2 class="blackpar_title">CHOMPS 2027</h2>
 		<h3 class="blackpar_title">The 2<sup>nd</sup> workshop on <a style="color: rgb(164, 0, 0)">C</a>onfabulation, <a style="color: rgb(164, 0, 0)">H</a>allucinations & <a style="color: rgb(164, 0, 0)">O</a>vergeneration in <a style="color: rgb(164, 0, 0)">M</a>ultilingual and <a style="color: rgb(164, 0, 0)">P</a>ractical <a style="color: rgb(164, 0, 0)">S</a>cenarios</h3>
 	    <h4 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"> Advances in hallucination mitigation in practical situations: <br>multilingual and precision-critical domains</h4>
-		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"><b>In conjunction with <a href="https://2027.eacl.org"> EACL 2027 </a><br> March 9-14, 2027, Athens, Greece (On-Site)</b></h5>
+		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"><b>In conjunction with <a href="https://2027.eacl.org"> EACL 2027 </a><br> March 13, 2027, Athens, Greece (On-Site)</b></h5>
 		<br><br>	
 	</center>
 </div>
@@ -61,7 +61,7 @@ layout: home
 	<li><b>Direct ARR commitment:</b> December 22, 2026</li>
 	<li><b>Author notification:</b> January 5, 2027</li>
 	<li><b>Camera-Ready due:</b> January 19, 2027</li>
-	<li><b>Workshop date:</b> March 9-14, 2027 (TBC)</li>
+	<li><b>Workshop date:</b> March 13, 2027</li>
 </ul>
 All deadlines are 11:59 PM AoE ("Anywhere on Earth").
 </p>
