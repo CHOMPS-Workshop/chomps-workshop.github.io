@@ -7,7 +7,7 @@
 # <h3 class="blackpar_title">(Models, Training and Inference)</h3>
 layout: home
 ---
-<div style="font-family: 'Source Sans', sans-serif; background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('images/athens-3.jpg') no-repeat; background-size: cover;">
+<div style="font-family: 'Source Sans', sans-serif; background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('images/athens-2.jpg') no-repeat; background-size: cover;">
 	<center>
 		<br><br>
 		<h2 class="blackpar_title">CHOMPS 2027</h2>
@@ -25,6 +25,8 @@ layout: home
 <hr  style="color: rgb(92, 242, 117);">
 <p>
 <ul>
+	<li> <b>[24th November, 2026]</b> 🔊 Paper submission deadlines are updated!</li>
+	<li> <b>[24th November, 2026]</b> SHROOM-Voodoo is moving to another venue, for more info check out <a href="https://helsinki-nlp.github.io/shroom/"> *SHROOM homepage</a>!</li>
 	<li> <b>[19th October, 2026]</b> 🔊 Paper submission are open!!!</li>
 	<li> <b>[3rd October, 2026]</b> CHOMPS is back! See you at EACL 2027 in Athens!!!</li>
 </ul>
@@ -56,9 +58,10 @@ layout: home
 <p>
 <ul>
  	<li><b>First call for papers:</b> October 13, 2026 </li>
-	<li><b>Second call for papers:</b> November 13, 2026 </li>
-	<li><b>Paper submission deadline:</b> December 15, 2026 </li>
-	<li><b>Direct ARR commitment:</b> December 22, 2026</li>
+	<li><b>Second call for papers:</b> November 24, 2026 </li>
+	<li><b>Direct submission deadline (archival and WIP):</b> December 25, 2026</li>
+	<li><b>ARR commitment (archival):</b> January  17, 2027</li>
+	<li><b>Dissemination submission deadline:</b> January 17, 2027</li>
 	<li><b>Author notification:</b> January 5, 2027</li>
 	<li><b>Camera-Ready due:</b> January 19, 2027</li>
 	<li><b>Workshop date:</b> March 13, 2027</li>
@@ -75,12 +78,13 @@ All deadlines are 11:59 PM AoE ("Anywhere on Earth").
  <li> <b>Non-archival submissions</b>, corresponding to work in progress and early results, </li>
  <li> <b>Dissemination submissions</b>, articles presented in other venues that engage with the topics of the workshop. </li> 
 </ul> 
-Archival or non-archival submissions may consist of up to 8 pages (long) or 4 pages (short) of content. Dissemination submissions may consist of up to 1 pages of content.
+Archival submission may consist of up to 8 pages (long) or 4 pages (short) of content. 
+Non-archival submissions may consist of up to 2 pages. Dissemination submissions can be sent seprately by google form (link below).
 On acceptance, authors may add one additional page to accomodate changes suggested by the reviewers.
 </p>
 
 
-<div style="background-color: #8d7b66ff; border: 1px solid #0e0a07ff; border-radius: 16px; padding: 24px 28px; margin: 28px 0; color: #333; line-height: 1.7; box-shadow: 0 3px 10px rgba(0,0,0,0.06);">
+<div style="background-color: #f5ca98ff; border: 1px solid #0e0a07ff; border-radius: 16px; padding: 24px 28px; margin: 28px 0; color: #333; line-height: 1.7; box-shadow: 0 3px 10px rgba(0,0,0,0.06);">
 
 <h3 style="color: #161009ff; margin-top: 0;">Submission Policy</h3>
 
@@ -112,7 +116,7 @@ These policies aim to distribute reviewing responsibilities fairly, maintain rev
 
 <p><b>Submission Format:</b> Paper submissions must use the official ACL style templates, which are available either as an <a href="https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj">Overleaf template</a> or via <a href="https://github.com/acl-org/acl-style-files" a>downloading LaTeX or Word files</a>. We strongly encourage participants to use the LaTeX template. All submissions must be in PDF format and must conform to the official style guidelines, which are contained in these template files. For anonymity policy, we follow the <a href="https://aclrollingreview.org/anonymity/" a>ARR anonimity policy</a>. For additional submission instructions, please check the <a href="https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines" a>Author Guidelines</a>.</p>
 
-<p><b>Submissions' Site:</b> (a) via <a href="https://openreview.net/group?id=eacl.org/EACL/2027/Workshop/CHOMPS&referrer=%5BHomepage%5D(%2F)" a>Direct submission</a> (b) via <a href="https://openreview.net/group?id=eacl.org/EACL/2027/Workshop/CHOMPS_ARR_Commitment&referrer=%5BHomepage%5D(%2F)" a>ARR commitement</a></p>
+<p><b>Submissions' Site:</b> (a) via <a href="https://openreview.net/group?id=eacl.org/EACL/2027/Workshop/CHOMPS&referrer=%5BHomepage%5D(%2F)" a>Direct submission</a> (b) via <a href="https://openreview.net/group?id=eacl.org/EACL/2027/Workshop/CHOMPS_ARR_Commitment&referrer=%5BHomepage%5D(%2F)" a>ARR commitement</a> (b) via <a href="https://forms.gle/vG3AXX6dYLgRqb537" a>Dissemination Google Form</a></p>
 <br>
 
 <!--Confirmed Speakers-->
