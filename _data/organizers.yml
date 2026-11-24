@@ -12,16 +12,16 @@
       affiliation: University of Helsinki, Finland
       photo: raul.png
       url: https://jrvc.github.io/
-    - name: Boya Zhang
-      affiliation: University of Geneva, Switzerland
-      photo: boya.jpg
-      url: https://tinaboya.github.io/
-- num_row: 1
-  organizers:
     - name: Timothee Mickus
       affiliation: University of Helsinki, Finland
       photo: timo.png
       url: https://timotheemickus.github.io/
+- num_row: 1
+  organizers:
+    - name: Boya Zhang
+      affiliation: University of Geneva, Switzerland
+      photo: boya.jpg
+      url: https://tinaboya.github.io/
     - name: Nona Naderi
       affiliation: Université Paris-Saclay, France
       photo: nona.jpg
