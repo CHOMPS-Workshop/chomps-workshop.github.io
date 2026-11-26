@@ -62,8 +62,8 @@ layout: home
 	<li><b>Direct submission deadline (archival and WIP):</b> December 25, 2026</li>
 	<li><b>ARR commitment (archival):</b> January  17, 2027</li>
 	<li><b>Dissemination submission deadline:</b> January 17, 2027</li>
-	<li><b>Author notification:</b> January 5, 2027</li>
-	<li><b>Camera-Ready due:</b> January 19, 2027</li>
+	<li><b>Author notification:</b> January 21, 2027</li>
+	<li><b>Camera-Ready due:</b> January 31, 2027</li>
 	<li><b>Workshop date:</b> March 13, 2027</li>
 </ul>
 All deadlines are 11:59 PM AoE ("Anywhere on Earth").
