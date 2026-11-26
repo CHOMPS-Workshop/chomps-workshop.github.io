@@ -143,10 +143,10 @@ These policies aim to distribute reviewing responsibilities fairly, maintain rev
 Please join our google group to get updated: <a href="mailto:chomps-eacl2027@googlegroups.com">chomps-eacl2027@googlegroups.com</a>!
 </p>
 
-For questions, please send an email to the organizers: chomps-eacl2027-org@googlegroups.com, or contact one of the workshop chairs:
-- Aman Sinha, Université de Genève, aman.sinha@unige.ch
-- Chuyuan Li, University of Grenoble-Alps, chuyuan.li@univ-grenoble-alpes.fr 
-- Raúl Vázquez, University of Helsinki, raul.vazquez@helsinki.fi
+For questions, please send an email to the organizers: <a href="mailto:chomps-eacl2027-org@googlegroups.com">chomps-eacl2027-org@googlegroups.com</a>, or contact one of the workshop chairs:
+- Aman Sinha, Université de Genève, <a href="mailto:aman.sinha@unige.ch">aman.sinha@unige.ch</a>
+- Chuyuan Li, University of Grenoble-Alps, <a href="mailto:chuyuan.li@univ-grenoble-alpes.fr">chuyuan.li@univ-grenoble-alpes.fr</a> 
+- Raúl Vázquez, University of Helsinki, <a href="mailto:raul.vazquez@helsinki.fi">raul.vazquez@helsinki.fi</a>
 
 <br>
 
