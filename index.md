@@ -79,7 +79,7 @@ All deadlines are 11:59 PM AoE ("Anywhere on Earth").
  <li> <b>Dissemination submissions</b>, articles presented in other venues that engage with the topics of the workshop. </li> 
 </ul> 
 Archival submission may consist of up to 8 pages (long) or 4 pages (short) of content. 
-Non-archival submissions may consist of up to 2 pages. Dissemination submissions can be sent seprately by google form (link below).
+Non-archival submissions may consist of up to 2 pages. Dissemination submissions can be sent seprately by google form (link below). The above-mentioned page limitations excludes references and appendix.
 On acceptance, authors may add one additional page to accomodate changes suggested by the reviewers.
 </p>
 
@@ -116,7 +116,7 @@ These policies aim to distribute reviewing responsibilities fairly, maintain rev
 
 <p><b>Submission Format:</b> Paper submissions must use the official ACL style templates, which are available either as an <a href="https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj">Overleaf template</a> or via <a href="https://github.com/acl-org/acl-style-files" a>downloading LaTeX or Word files</a>. We strongly encourage participants to use the LaTeX template. All submissions must be in PDF format and must conform to the official style guidelines, which are contained in these template files. For anonymity policy, we follow the <a href="https://aclrollingreview.org/anonymity/" a>ARR anonimity policy</a>. For additional submission instructions, please check the <a href="https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines" a>Author Guidelines</a>.</p>
 
-<p><b>Submissions' Site:</b> (a) via <a href="https://openreview.net/group?id=eacl.org/EACL/2027/Workshop/CHOMPS&referrer=%5BHomepage%5D(%2F)" a>Direct submission</a> (b) via <a href="https://openreview.net/group?id=eacl.org/EACL/2027/Workshop/CHOMPS_ARR_Commitment&referrer=%5BHomepage%5D(%2F)" a>ARR commitement</a> (b) via <a href="https://forms.gle/vG3AXX6dYLgRqb537" a>Dissemination Google Form</a></p>
+<p><b>Submissions' Site:</b> (a) via <a href="https://openreview.net/group?id=eacl.org/EACL/2027/Workshop/CHOMPS&referrer=%5BHomepage%5D(%2F)" a>Direct submission</a> (b) via <a href="https://openreview.net/group?id=eacl.org/EACL/2027/Workshop/CHOMPS_ARR_Commitment&referrer=%5BHomepage%5D(%2F)" a>ARR commitement</a> (c) via <a href="https://forms.gle/vG3AXX6dYLgRqb537" a>Dissemination Google Form</a></p>
 <br>
 
 <!--Confirmed Speakers-->
